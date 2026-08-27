@@ -9,7 +9,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ccb6d514-be32-4c1b-893e-be354a723a56" width="280" alt="Tela de Login" />
   <img src="https://github.com/user-attachments/assets/35804d75-22bb-4456-8660-01f40fe2ce06" width="280" alt="Tela Inicial" />
-  <img src="https://github.com/user-attachments/assets/77de35d7-3a2c-41eb-ba20-64a45852bbde" width="280" alt="Novo Remédio" />
   <img src="https://github.com/user-attachments/assets/a45faa72-97ef-40d4-ba8b-4523df8801ff" width="280" alt="Perfil do Usuário" />
 </div>
 
