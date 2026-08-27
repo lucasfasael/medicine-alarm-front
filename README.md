@@ -11,19 +11,6 @@
   <img src="https://github.com/user-attachments/assets/35804d75-22bb-4456-8660-01f40fe2ce06" width="280" alt="Tela Inicial" />
   <img src="https://github.com/user-attachments/assets/77de35d7-3a2c-41eb-ba20-64a45852bbde" width="280" alt="Novo Remédio" />
   <img src="https://github.com/user-attachments/assets/a45faa72-97ef-40d4-ba8b-4523df8801ff" width="280" alt="Perfil do Usuário" />
-
-  
-<img width="560" height="1158" alt="image" src="https://github.com/user-attachments/assets/ccb6d514-be32-4c1b-893e-be354a723a56" />
-
-
-<img width="567" height="1166" alt="image" src="" />
-
-
-<img width="578" height="1162" alt="image" src="https://github.com/user-attachments/assets/70bbb1d2-2401-4e94-b63f-e376a9beb13e" />
-
-
-<img width="581" height="1164" alt="image" src="" />
-
 </div>
 
 *(Dica: Você pode arrastar as imagens dos prints para o seu repositório do GitHub e substituir os links acima para exibi-las direto no README)*
