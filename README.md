@@ -81,7 +81,7 @@ npm start
 
 
 
-###👨‍💻 Autor
+## 👨‍💻 Autor
 
 Desenvolvido por Lucas Fasael.
 
